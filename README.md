@@ -5,7 +5,7 @@
 
 
 ## Created with 
-- [ReactJS] - 
+- [ReactJS] 
 
 
 ## Installation
