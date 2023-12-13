@@ -1,7 +1,7 @@
 # Todo React App
 
 ## Tutorial
-[Tutorial](https://www.geeksforgeeks.org/create-todo-app-using-reactjs/)
+(https://www.geeksforgeeks.org/create-todo-app-using-reactjs/)
 
 
 ## Created with 
