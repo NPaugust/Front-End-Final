@@ -9,10 +9,10 @@
 
 
 ## Created with 
-- [ReactJS] 
+- [ReactJS](https://react.dev/)
 
 ## Deployment
-- [https://NPaugust.github.io/todo-list-react]
+- [Deploy](https://npaugust.github.io/Front-End-Final/)
 ## Installation
 
 
